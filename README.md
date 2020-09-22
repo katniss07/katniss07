@@ -1,16 +1,13 @@
-### Hi there 👋
+# Nat
 
-<!--
-**katniss07/katniss07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I’m currently learning dev at @IGTI since 2020. 💻🚀
 
-Here are some ideas to get you started:
+I'm passionate about solving problems and presenting solutions. I'm always open to new challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌍 "if it doesn't challenge you it doesn't change you" 🧠
+
+[![Linkedin Badge](https://img.shields.io/badge/-Nat%20Carrato%de%Almeida-cca9dd?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natcarrato/)](https://www.linkedin.com/in/natcarrato/) 
+![Gmail Badge](https://img.shields.io/badge/-natcarrato@gmail.com-03bb85?style=flat-square&logo=Gmail&logoColor=white&link=mailto:natcarrato@gmail.com)
+
+![Katniss07's github stats](https://github-readme-stats.vercel.app/api?username=Katniss07&show_icons=true&theme=buefy)
+
