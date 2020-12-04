@@ -1,6 +1,6 @@
-# Nat
+# Natalia Carrato - natcarrato
 
- I’m currently learning dev at @IGTI since 2020. 💻🚀
+ I’m currently learning dev since 2020. 💻🚀
 
 I'm passionate about solving problems and presenting solutions. I'm always open to new challenges.
 
